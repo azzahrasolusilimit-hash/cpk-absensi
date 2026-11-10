@@ -1,0 +1,6 @@
+node_modules/
+backend/public/uploads/*
+!backend/public/uploads/.gitkeep
+backend/src/config.php
+*service-account*.json
+.env
